@@ -1,0 +1,7 @@
+google-api-python-client
+google-auth
+google-auth-httplib2
+edge-tts
+opencv-python-headless
+numpy
+requests
